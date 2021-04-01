@@ -1,0 +1,4 @@
+总用量 8
+-rw-r--r-- 1 root root 32 4月   1 14:24 date.txt
+-rw-r--r-- 1 root root 25 4月   1 11:34 README.md
+-rw-r--r-- 1 root root  0 4月   1 14:31 test.txt
